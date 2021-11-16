@@ -1,0 +1,16 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.csproj.AssemblyReference.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.exe
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.runtimeconfig.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.runtimeconfig.dev.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\ref\053505_Karachun_Lab8.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\bin\Debug\net5.0\053505_Karachun_Lab8.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\ref\053505_Karachun_Lab8.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab8\053505_Karachun_Lab8\obj\Debug\net5.0\053505_Karachun_Lab8.genruntimeconfig.cache
