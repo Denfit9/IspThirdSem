@@ -10,18 +10,21 @@ namespace _053505_Karachun_Lab8.Interfaces
 {
     public  class FileService: IFileService
     {
-        internal readonly object SaveData;
-
         IEnumerable<Employee> IFileService.ReadFile(string fileName)
         {
             using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open)))
             {
+                List<Employee> read = new();
                 while (reader.PeekChar() > -1)
                 {
-                    int age = reader.ReadInt32();
-                    bool isAlive = reader.ReadBoolean();
-                    string Name = reader.ReadString();
-                    yield return new Employee();
+                    int ager = reader.ReadInt32();
+                    bool isAliver = reader.ReadBoolean();
+                    string Namer = reader.ReadString();
+                    read.Add(new Employee { age = ager, isAlive = isAliver, Name = Namer });
+                }
+                foreach (Employee emp in read)
+                {
+                    yield return emp;
                 }
             }
         }
