@@ -14,7 +14,7 @@ namespace _053505_Karachun_Lab9
             string path1 = "C:\\Users\\d0306\\Documents\\C#ThirdSemLabs\\053505_Karachun_Lab9\\SerByLinq.xml";
             string path2 = "C:\\Users\\d0306\\Documents\\C#ThirdSemLabs\\053505_Karachun_Lab9\\SerByXML.xml";
             string path3 = "C:\\Users\\d0306\\Documents\\C#ThirdSemLabs\\053505_Karachun_Lab9\\SerByJSON.json";
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Starting Collection: ");
             ISerializer serializers = new Serializer1();
             List <Computer> computers= new();
             List<Computer> computers2 = new();
@@ -35,7 +35,7 @@ namespace _053505_Karachun_Lab9
             //LINQ-TO-XML
             serializers.SerializeByLINQ(computers, path1);
             computers2.AddRange(serializers.DeSerializeByLINQ(path1));
-            Console.WriteLine("Collection using LINQ to XML: \n ");
+            Console.WriteLine("\nCollection using LINQ to XML: \n ");
             foreach(Computer comp2 in computers2)
             {
                 Console.WriteLine("Computer manufactor:  " + comp2.manufactor + "  HDD size is :  " + comp2.hdd.size);
