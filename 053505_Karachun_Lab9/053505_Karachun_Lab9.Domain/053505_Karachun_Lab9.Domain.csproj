@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_053505_Karachun_Lab9.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>

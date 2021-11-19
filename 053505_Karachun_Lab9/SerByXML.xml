@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfComputer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computer>
+    <manufactor>HP</manufactor>
+    <hdd>
+      <size>20</size>
+    </hdd>
+  </Computer>
+  <Computer>
+    <manufactor>ASUS</manufactor>
+    <hdd>
+      <size>120</size>
+    </hdd>
+  </Computer>
+  <Computer>
+    <manufactor>Acer</manufactor>
+    <hdd>
+      <size>220</size>
+    </hdd>
+  </Computer>
+  <Computer>
+    <manufactor>IBM</manufactor>
+    <hdd>
+      <size>2020</size>
+    </hdd>
+  </Computer>
+  <Computer>
+    <manufactor>Dell</manufactor>
+    <hdd>
+      <size>20</size>
+    </hdd>
+  </Computer>
+</ArrayOfComputer>

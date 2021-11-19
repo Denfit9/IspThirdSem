@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<computers>
+  <computer manufactor="HP">
+    <size>20</size>
+  </computer>
+  <computer manufactor="ASUS">
+    <size>120</size>
+  </computer>
+  <computer manufactor="Acer">
+    <size>220</size>
+  </computer>
+  <computer manufactor="IBM">
+    <size>2020</size>
+  </computer>
+  <computer manufactor="Dell">
+    <size>20</size>
+  </computer>
+</computers>

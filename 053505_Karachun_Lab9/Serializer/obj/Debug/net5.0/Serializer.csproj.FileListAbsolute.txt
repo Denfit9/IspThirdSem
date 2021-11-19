@@ -1,0 +1,15 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\Serializer.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\Serializer.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\Serializer.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\053505_Karachun_Lab9.Domain.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\bin\Debug\net5.0\053505_Karachun_Lab9.Domain.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.csproj.AssemblyReference.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.csproj.CopyComplete
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab9\Serializer\obj\Debug\net5.0\Serializer.pdb
