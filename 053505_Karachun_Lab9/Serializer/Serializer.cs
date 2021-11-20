@@ -33,7 +33,6 @@ namespace Serializer
             DataContractJsonSerializer formatter = new DataContractJsonSerializer(computers.GetType());
             using (FileStream fs = new FileStream(fileName, FileMode.OpenOrCreate))
             {
-                // десериализация (создание объекта из потока)
                 computers.AddRange((List<Computer>)formatter.ReadObject(fs));
             }
             return computers;
