@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="FileService1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\053505_Karachun_Lab10\053505_Karachun_Lab10.csproj" />
+  </ItemGroup>
+
+</Project>

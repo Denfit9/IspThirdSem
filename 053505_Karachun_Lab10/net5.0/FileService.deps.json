@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FileService/1.0.0": {
+        "dependencies": {
+          "053505_Karachun_Lab10": "1.0.0"
+        },
+        "runtime": {
+          "FileService.dll": {}
+        }
+      },
+      "053505_Karachun_Lab10/1.0.0": {
+        "runtime": {
+          "053505_Karachun_Lab10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "053505_Karachun_Lab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

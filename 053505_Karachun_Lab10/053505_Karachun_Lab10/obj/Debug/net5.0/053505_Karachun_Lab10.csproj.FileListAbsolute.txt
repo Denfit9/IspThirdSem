@@ -1,0 +1,15 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.exe
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.runtimeconfig.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.runtimeconfig.dev.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\ref\053505_Karachun_Lab10.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\bin\Debug\net5.0\053505_Karachun_Lab10.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\ref\053505_Karachun_Lab10.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab10\053505_Karachun_Lab10\obj\Debug\net5.0\053505_Karachun_Lab10.genruntimeconfig.cache
