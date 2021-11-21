@@ -1,0 +1,12 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\bin\Debug\net5.0\ComputerLib.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\bin\Debug\net5.0\ComputerLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\bin\Debug\net5.0\ref\ComputerLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\bin\Debug\net5.0\ComputerLib.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.csproj.AssemblyReference.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ref\ComputerLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\Computer\obj\Debug\net5.0\ComputerLib.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StreamServiceLib/1.0.0": {
+        "dependencies": {
+          "ComputerLib": "1.0.0"
+        },
+        "runtime": {
+          "StreamServiceLib.dll": {}
+        }
+      },
+      "ComputerLib/1.0.0": {
+        "runtime": {
+          "ComputerLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamServiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

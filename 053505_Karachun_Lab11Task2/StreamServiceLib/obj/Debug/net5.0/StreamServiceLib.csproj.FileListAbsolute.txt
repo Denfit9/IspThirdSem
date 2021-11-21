@@ -1,0 +1,15 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\StreamServiceLib.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\StreamServiceLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\ref\StreamServiceLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\StreamServiceLib.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\ComputerLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\bin\Debug\net5.0\ComputerLib.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.csproj.AssemblyReference.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.csproj.CopyComplete
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\ref\StreamServiceLib.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task2\StreamServiceLib\obj\Debug\net5.0\StreamServiceLib.pdb

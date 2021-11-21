@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_053505_Karachun_Lab11Task1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CountSinus\CountSinus.csproj" />
+    <ProjectReference Include="..\SinusFunc\SinusFunc.csproj" />
+  </ItemGroup>
+
+</Project>

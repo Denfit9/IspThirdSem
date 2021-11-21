@@ -1,0 +1,300 @@
+0
+Owner is0
+Asus
+1
+Owner is1
+HP
+2
+Owner is2
+Acer
+3
+Owner is3
+HP
+4
+Owner is4
+Acer
+5
+Owner is5
+HP
+6
+Owner is6
+HP
+7
+Owner is7
+Asus
+8
+Owner is8
+HP
+9
+Owner is9
+Asus
+10
+Owner is10
+HP
+11
+Owner is11
+Acer
+12
+Owner is12
+HP
+13
+Owner is13
+Asus
+14
+Owner is14
+HP
+15
+Owner is15
+HP
+16
+Owner is16
+Acer
+17
+Owner is17
+HP
+18
+Owner is18
+HP
+19
+Owner is19
+Asus
+20
+Owner is20
+Asus
+21
+Owner is21
+Acer
+22
+Owner is22
+Acer
+23
+Owner is23
+Asus
+24
+Owner is24
+Asus
+25
+Owner is25
+Acer
+26
+Owner is26
+Acer
+27
+Owner is27
+Acer
+28
+Owner is28
+HP
+29
+Owner is29
+HP
+30
+Owner is30
+HP
+31
+Owner is31
+HP
+32
+Owner is32
+HP
+33
+Owner is33
+Asus
+34
+Owner is34
+Acer
+35
+Owner is35
+Asus
+36
+Owner is36
+Acer
+37
+Owner is37
+Acer
+38
+Owner is38
+Acer
+39
+Owner is39
+Acer
+40
+Owner is40
+HP
+41
+Owner is41
+Asus
+42
+Owner is42
+Acer
+43
+Owner is43
+Asus
+44
+Owner is44
+Acer
+45
+Owner is45
+Asus
+46
+Owner is46
+HP
+47
+Owner is47
+Asus
+48
+Owner is48
+HP
+49
+Owner is49
+Asus
+50
+Owner is50
+Acer
+51
+Owner is51
+Asus
+52
+Owner is52
+Asus
+53
+Owner is53
+Asus
+54
+Owner is54
+Asus
+55
+Owner is55
+Asus
+56
+Owner is56
+HP
+57
+Owner is57
+HP
+58
+Owner is58
+HP
+59
+Owner is59
+Acer
+60
+Owner is60
+HP
+61
+Owner is61
+Acer
+62
+Owner is62
+HP
+63
+Owner is63
+Asus
+64
+Owner is64
+HP
+65
+Owner is65
+Asus
+66
+Owner is66
+Asus
+67
+Owner is67
+HP
+68
+Owner is68
+HP
+69
+Owner is69
+Asus
+70
+Owner is70
+HP
+71
+Owner is71
+Asus
+72
+Owner is72
+Acer
+73
+Owner is73
+HP
+74
+Owner is74
+HP
+75
+Owner is75
+Asus
+76
+Owner is76
+Asus
+77
+Owner is77
+Acer
+78
+Owner is78
+Asus
+79
+Owner is79
+Asus
+80
+Owner is80
+HP
+81
+Owner is81
+Acer
+82
+Owner is82
+Asus
+83
+Owner is83
+HP
+84
+Owner is84
+HP
+85
+Owner is85
+HP
+86
+Owner is86
+Asus
+87
+Owner is87
+Asus
+88
+Owner is88
+Acer
+89
+Owner is89
+Acer
+90
+Owner is90
+Acer
+91
+Owner is91
+Asus
+92
+Owner is92
+Asus
+93
+Owner is93
+Acer
+94
+Owner is94
+HP
+95
+Owner is95
+HP
+96
+Owner is96
+HP
+97
+Owner is97
+Acer
+98
+Owner is98
+HP
+99
+Owner is99
+Acer

@@ -1,0 +1,11 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\bin\Debug\net5.0\SinusFunc.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\bin\Debug\net5.0\SinusFunc.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\bin\Debug\net5.0\ref\SinusFunc.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\bin\Debug\net5.0\SinusFunc.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\ref\SinusFunc.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\SinusFunc\obj\Debug\net5.0\SinusFunc.pdb

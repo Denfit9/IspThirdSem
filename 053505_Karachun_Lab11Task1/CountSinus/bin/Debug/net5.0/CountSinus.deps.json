@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CountSinus/1.0.0": {
+        "dependencies": {
+          "SinusFunc": "1.0.0"
+        },
+        "runtime": {
+          "CountSinus.dll": {}
+        }
+      },
+      "SinusFunc/1.0.0": {
+        "runtime": {
+          "SinusFunc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountSinus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SinusFunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

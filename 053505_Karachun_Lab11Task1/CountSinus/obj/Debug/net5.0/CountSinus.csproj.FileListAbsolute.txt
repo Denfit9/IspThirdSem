@@ -1,0 +1,15 @@
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\CountSinus.deps.json
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\CountSinus.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\ref\CountSinus.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\CountSinus.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\SinusFunc.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\bin\Debug\net5.0\SinusFunc.pdb
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.csproj.AssemblyReference.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.AssemblyInfoInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.AssemblyInfo.cs
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.csproj.CoreCompileInputs.cache
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.csproj.CopyComplete
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\ref\CountSinus.dll
+C:\Users\d0306\Documents\C#ThirdSemLabs\053505_Karachun_Lab11Task1\CountSinus\obj\Debug\net5.0\CountSinus.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "053505_Karachun_Lab11Task2/1.0.0": {
+        "dependencies": {
+          "ComputerLib": "1.0.0",
+          "StreamServiceLib": "1.0.0"
+        },
+        "runtime": {
+          "053505_Karachun_Lab11Task2.dll": {}
+        }
+      },
+      "ComputerLib/1.0.0": {
+        "runtime": {
+          "ComputerLib.dll": {}
+        }
+      },
+      "StreamServiceLib/1.0.0": {
+        "dependencies": {
+          "ComputerLib": "1.0.0"
+        },
+        "runtime": {
+          "StreamServiceLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "053505_Karachun_Lab11Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamServiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
