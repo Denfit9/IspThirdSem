@@ -41,16 +41,19 @@ namespace _053505_Karachun_Lab7.LINQ
         }
         public static void passengersWhoPaidMoreThan(List<person> persons, int price)
         {
-            List<int> numberOfRichPassengers = new();
-            foreach (person p in persons)
-            {
-                if (p.moneySpent> price)
-                {
-                    numberOfRichPassengers.Add(1);
-                }
-            }
-            int number = numberOfRichPassengers.Aggregate((x, y)=> x + y);
-            Console.WriteLine("\nNumber of passengers who paid more than " + price + " is " + number + "\n" );
+            //List<int> numberOfRichPassengers = new();
+
+            var result1 = persons.Aggregate(0, (c, p) => p.moneySpent > price ? ++c : c //very interesting thing
+            );
+            /* foreach (person p in persons)
+             {
+                 if (p.moneySpent> price)
+                 {
+                     numberOfRichPassengers.Add(1);
+                 }
+             }
+             int number = numberOfRichPassengers.Aggregate((x, y)=> x + y);*/
+            Console.WriteLine("\nNumber of passengers who paid more than " + price + " is " + result1 + "\n");
         }
         public static void paidOnTrackTo(List<ticket> tickets)
         {
